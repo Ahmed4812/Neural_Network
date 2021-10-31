@@ -1,11 +1,12 @@
 # :brain:  Neural Networks and Deep Learning
-: somthing:
+
 These are some of the projects from my Neural Networks class (`CSC-329`) at Union College. Each folder goes through the project description.
 Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 
 > You may use these code as examples with proper citation.
 
-:::info Most projects were done individually except some projects have collaborator for testing different models. :::
+> :spiral_note_pad: Most projects were done individually except some projects have collaborator for testing different models. [color=#3b75c6]
+
 
 ## :closed_book: Contents:
 
