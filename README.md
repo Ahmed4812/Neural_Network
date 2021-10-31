@@ -4,6 +4,8 @@ These are some of the projects from my Neural Networks class (`CSC-329`) at Unio
 Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 
 > You may use these code as examples with proper citation.
+
+
 :::info
 :spiral_note_pad: Most projects were done individually except some projects have collaborator for testing different models.
 :::
