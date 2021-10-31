@@ -7,7 +7,7 @@ Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 
 
 ::: info
-:spiral_note_pad: Most projects were done individually except some projects have collaborator for testing different models.
+ Most projects were done individually except some projects have collaborator for testing different models.
 :::
 
 ## :closed_book: Contents:
