@@ -8,7 +8,7 @@ Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 >  🗒️ Most projects were done individually except some projects have collaborators for testing different models.
 
 <p align="center">
-  <img  width="250" height="150" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png ">
+  <img  width="250" height="150" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
 </p>
 
 
