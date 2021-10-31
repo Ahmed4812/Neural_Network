@@ -1,5 +1,5 @@
 # :brain:  Neural Networks and Deep Learning
-:::info asd:::
+: somthing:
 These are some of the projects from my Neural Networks class (`CSC-329`) at Union College. Each folder goes through the project description.
 Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 
