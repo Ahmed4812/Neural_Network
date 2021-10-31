@@ -5,7 +5,7 @@ Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 
 > You may use these code as examples with proper citation.
 
-> :spiral_note_pad: Most projects were done individually except some projects have collaborator for testing different models. [color=#3b75c6]
+>  🗒️ Most projects were done individually except some projects have collaborator for testing different models. [color=#3b75c6]
 
 
 ## :closed_book: Contents:
