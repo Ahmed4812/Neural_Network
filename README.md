@@ -15,7 +15,7 @@ Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
   <img  width="150" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png">
   <img  width="150" height="110" src="https://keras.io/img/logo-k-keras-wb.png">
   <img  width="150" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
-  <img  width="150" height="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png=">
+  <img  width="150" height="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png">
 </p>
 
 <p align="center">
