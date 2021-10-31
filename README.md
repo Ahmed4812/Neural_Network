@@ -11,7 +11,7 @@ Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
   <img  width="250" height="140" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
 </p>
 <p align="center">
-  <img  width="150" height="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png">
+  <img  width="160" height="120" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png">
   <img  width="150" height="110" src="https://keras.io/img/logo-k-keras-wb.png">
   <img  width="150" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
   
