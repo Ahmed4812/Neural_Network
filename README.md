@@ -5,7 +5,11 @@ Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 
 > You may use these code as examples with proper citation.
 
+:::info
+:bulb: **Hint:** You can also apply styling from the toolbar at the top :arrow_upper_left: of the editing area.
 
+![](https://i.imgur.com/Cnle9f9.png)
+:::
 :::info Most projects were done individually except some projects have collaborator for testing different models. :::
 
 ## :closed_book: Contents:
