@@ -6,9 +6,7 @@ Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 > You may use these code as examples with proper citation.
 
 
-::: info
- Most projects were done individually except some projects have collaborator for testing different models.
-:::
+:::info Most projects were done individually except some projects have collaborator for testing different models. :::
 
 ## :closed_book: Contents:
 
