@@ -25,4 +25,3 @@ Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 ## MIT
 ### The MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
