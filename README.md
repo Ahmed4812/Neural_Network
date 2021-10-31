@@ -6,19 +6,20 @@ Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 > You may use these code as examples with proper citation and please `Fork`.
 
 >  🗒️ Most projects were done individually except some projects have collaborators for testing different models.
-
+## :hammer_and_wrench: Tools:
 <p align="center">
-  <img  width="250" height="150" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
+  <img  width="250" height="140" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
 </p>
 
 <p align="center">
   <img  width="150" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png">
   <img  width="150" height="110" src="https://keras.io/img/logo-k-keras-wb.png">
   <img  width="150" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
-  <img  width="150" height="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png">
+  
 </p>
 
 <p align="center">
+  <img  width="150" height="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png">
   <img  width="150" height="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png">
   <img  width="150" height="130" src="https://matplotlib.org/_static/logo2_compressed.svg">
  </p>
