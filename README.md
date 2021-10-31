@@ -22,6 +22,6 @@ Most of the datasets are from https://archive.ics.uci.edu/ml/datasets.
 |[Material Classification]()|Classification of Cardboard, Glass, Metal, Paper, and Plastic from images|Ali Ahmed Khan|
 
 
+## MIT
 
-### The MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
